@@ -1,0 +1,81 @@
+{
+	"info": {
+		"_postman_id": "4ef0fe34-bf8a-4c6c-acc6-9d2c2c67a718",
+		"name": "Visual Crossing API Proyect",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "21580571"
+	},
+	"item": [
+		{
+			"name": "Clima Caracas 2025",
+			"request": {
+				"auth": {
+					"type": "noauth"
+				},
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Caracas,Venezuela?unitGroup=metric&key=CCS6THRQ44UK724JLCDG29YZ8",
+					"protocol": "https",
+					"host": [
+						"weather",
+						"visualcrossing",
+						"com"
+					],
+					"path": [
+						"VisualCrossingWebServices",
+						"rest",
+						"services",
+						"timeline",
+						"Caracas,Venezuela"
+					],
+					"query": [
+						{
+							"key": "unitGroup",
+							"value": "metric"
+						},
+						{
+							"key": "key",
+							"value": "CCS6THRQ44UK724JLCDG29YZ8"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Clima Nueva Esparta 2025",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/NuevaEsparta,Venezuela?unitGroup=metric&key=CCS6THRQ44UK724JLCDG29YZ8",
+					"protocol": "https",
+					"host": [
+						"weather",
+						"visualcrossing",
+						"com"
+					],
+					"path": [
+						"VisualCrossingWebServices",
+						"rest",
+						"services",
+						"timeline",
+						"NuevaEsparta,Venezuela"
+					],
+					"query": [
+						{
+							"key": "unitGroup",
+							"value": "metric"
+						},
+						{
+							"key": "key",
+							"value": "CCS6THRQ44UK724JLCDG29YZ8"
+						}
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
