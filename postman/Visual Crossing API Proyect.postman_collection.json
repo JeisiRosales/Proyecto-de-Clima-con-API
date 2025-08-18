@@ -76,6 +76,40 @@
 				}
 			},
 			"response": []
+		},
+		{
+			"name": "Clima Monagas 2025",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/Monagas,Venezuela?unitGroup=metric&key=CCS6THRQ44UK724JLCDG29YZ8",
+					"protocol": "https",
+					"host": [
+						"weather",
+						"visualcrossing",
+						"com"
+					],
+					"path": [
+						"VisualCrossingWebServices",
+						"rest",
+						"services",
+						"timeline",
+						"Monagas,Venezuela"
+					],
+					"query": [
+						{
+							"key": "unitGroup",
+							"value": "metric"
+						},
+						{
+							"key": "key",
+							"value": "CCS6THRQ44UK724JLCDG29YZ8"
+						}
+					]
+				}
+			},
+			"response": []
 		}
 	]
 }
