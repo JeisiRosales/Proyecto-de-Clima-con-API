@@ -1,5 +1,5 @@
 # PROYECTO PERSONAL
-## Proyecto de Clima con API de OpenWeather
+## Proyecto de Clima con API 
 
 En este proyecto se integra **Postman, SQL Server, Power BI y una aplicación web (HTML/JS)** utilizando datos de la API de OpenWeather.  
 El objetivo es aprender el flujo completo de **consumo, almacenamiento, análisis y visualización de datos**.
@@ -11,7 +11,7 @@ El objetivo es aprender el flujo completo de **consumo, almacenamiento, análisi
 - **SQL Server** → almacenamiento de datos históricos de clima.  
 - **Power BI** → creación de dashboards interactivos.  
 - **HTML, CSS y JavaScript** → app web para mostrar datos en tiempo real.  
-- **OpenWeather API** → fuente de datos del clima.
+- **Visual Crossing API** → fuente de datos del clima.
 
 ---
 
