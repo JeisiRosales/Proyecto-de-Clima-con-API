@@ -1,0 +1,2 @@
+CREATE DATABASE ClimaDB;
+GO
