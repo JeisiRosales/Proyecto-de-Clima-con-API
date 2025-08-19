@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API-de-OpenWeathe-\\c#\\InsertarClima\\InsertarClima.csproj": {}
+    "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API\\c#\\InsertarClima\\InsertarClima.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API-de-OpenWeathe-\\c#\\InsertarClima\\InsertarClima.csproj": {
+    "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API\\c#\\InsertarClima\\InsertarClima.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API-de-OpenWeathe-\\c#\\InsertarClima\\InsertarClima.csproj",
+        "projectUniqueName": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API\\c#\\InsertarClima\\InsertarClima.csproj",
         "projectName": "InsertarClima",
-        "projectPath": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API-de-OpenWeathe-\\c#\\InsertarClima\\InsertarClima.csproj",
+        "projectPath": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API\\c#\\InsertarClima\\InsertarClima.csproj",
         "packagesPath": "C:\\Users\\Jeisi Rosales\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API-de-OpenWeathe-\\c#\\InsertarClima\\obj\\",
+        "outputPath": "C:\\Users\\Jeisi Rosales\\Desktop\\Proyecto-de-Clima-con-API\\c#\\InsertarClima\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

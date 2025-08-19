@@ -62,6 +62,8 @@ class Program
                 decimal viento = (decimal)hora["windspeed"];
                 decimal presion = (decimal)hora["pressure"];
                 decimal visibilidad = (decimal)hora["visibility"];
+                decimal latitud = (decimal)data["latitude"];
+                decimal longitud = (decimal)data["longitude"];
 
                 // Insertar en SQL Server
                 using (SqlConnection conn = new SqlConnection(connectionString))
@@ -77,9 +79,11 @@ class Program
                     if (idLocalizacionObj == null)
                     {
                         SqlCommand cmdInsertLoc = new SqlCommand(
-                            "INSERT INTO Localizaciones (nombreCiudad, pais) VALUES (@ciudad, @pais); SELECT SCOPE_IDENTITY();", conn);
+                            "INSERT INTO Localizaciones (nombreCiudad, pais, latitud, longitud) VALUES (@ciudad, @pais, @latitud, @longitud); SELECT SCOPE_IDENTITY();", conn);
                         cmdInsertLoc.Parameters.AddWithValue("@ciudad", ciudad.Split(',')[0]);
                         cmdInsertLoc.Parameters.AddWithValue("@pais", ciudad.Split(',')[1]);
+                        cmdInsertLoc.Parameters.AddWithValue("@latitud", latitud);
+                        cmdInsertLoc.Parameters.AddWithValue("@longitud", longitud);
                         idLocalizacion = Convert.ToInt32(cmdInsertLoc.ExecuteScalar());
                     }
                     else
