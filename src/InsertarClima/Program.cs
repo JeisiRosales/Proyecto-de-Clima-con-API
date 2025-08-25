@@ -54,8 +54,12 @@ class Program
                 // Parsear JSON
                 JObject data = JObject.Parse(json);
 
-                // Tomamos la primera hora del día como prueba
-                var hora = data["days"][0]["hours"][0];
+                // Tomamos la hora actual y consultamos los datos
+                // hora actual
+                int horaActual = DateTime.Now.Hour;
+
+                var horasDelDia = data["days"][0]["hours"];
+                var hora = horasDelDia[horaActual];
                 decimal temp = (decimal)hora["temp"];
                 int humedad = (int)hora["humidity"];
                 string desc = (string)hora["conditions"];
