@@ -1,0 +1,2378 @@
+[
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:14.92",
+    "Temperatura": 24.00,
+    "Humedad": 100,
+    "Viento": 1.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:05.877",
+    "Temperatura": 24.00,
+    "Humedad": 100,
+    "Viento": 1.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:03.497",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 9.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:16.737",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 9.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:50.457",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 9.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:30.203",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:53.047",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:25.617",
+    "Temperatura": 23.90,
+    "Humedad": 94,
+    "Viento": 6.50,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:15.907",
+    "Temperatura": 23.30,
+    "Humedad": 96,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:49.343",
+    "Temperatura": 23.30,
+    "Humedad": 96,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:31.65",
+    "Temperatura": 23.80,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:15.163",
+    "Temperatura": 22.40,
+    "Humedad": 98,
+    "Viento": 0.40,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:06.13",
+    "Temperatura": 22.40,
+    "Humedad": 98,
+    "Viento": 0.40,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:03.903",
+    "Temperatura": 22.70,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:17.05",
+    "Temperatura": 22.70,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:50.767",
+    "Temperatura": 22.70,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:30.523",
+    "Temperatura": 23.10,
+    "Humedad": 94,
+    "Viento": 4.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:53.363",
+    "Temperatura": 23.10,
+    "Humedad": 94,
+    "Viento": 4.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:25.947",
+    "Temperatura": 24.60,
+    "Humedad": 92,
+    "Viento": 2.50,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:16.43",
+    "Temperatura": 24.10,
+    "Humedad": 93,
+    "Viento": 2.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:49.81",
+    "Temperatura": 24.10,
+    "Humedad": 93,
+    "Viento": 2.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.34",
+    "Temperatura": 23.90,
+    "Humedad": 94,
+    "Viento": 2.20,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:15.433",
+    "Temperatura": 23.10,
+    "Humedad": 95,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:06.373",
+    "Temperatura": 23.10,
+    "Humedad": 95,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:04.26",
+    "Temperatura": 23.60,
+    "Humedad": 95,
+    "Viento": 4.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:17.35",
+    "Temperatura": 23.60,
+    "Humedad": 95,
+    "Viento": 4.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:51.047",
+    "Temperatura": 23.60,
+    "Humedad": 95,
+    "Viento": 4.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:30.823",
+    "Temperatura": 23.60,
+    "Humedad": 94,
+    "Viento": 4.30,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:53.657",
+    "Temperatura": 23.60,
+    "Humedad": 94,
+    "Viento": 4.30,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:26.233",
+    "Temperatura": 25.00,
+    "Humedad": 92,
+    "Viento": 4.70,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:16.717",
+    "Temperatura": 24.60,
+    "Humedad": 93,
+    "Viento": 4.70,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:50.143",
+    "Temperatura": 24.60,
+    "Humedad": 93,
+    "Viento": 4.70,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.653",
+    "Temperatura": 24.50,
+    "Humedad": 93,
+    "Viento": 5.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:15.67",
+    "Temperatura": 22.90,
+    "Humedad": 92,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:06.627",
+    "Temperatura": 22.90,
+    "Humedad": 92,
+    "Viento": 2.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:05.36",
+    "Temperatura": 22.60,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:17.637",
+    "Temperatura": 22.60,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:51.353",
+    "Temperatura": 22.60,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:31.097",
+    "Temperatura": 22.60,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:53.953",
+    "Temperatura": 22.60,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:26.533",
+    "Temperatura": 24.60,
+    "Humedad": 90,
+    "Viento": 5.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:17.013",
+    "Temperatura": 23.90,
+    "Humedad": 94,
+    "Viento": 3.20,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:50.523",
+    "Temperatura": 23.90,
+    "Humedad": 94,
+    "Viento": 3.20,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.957",
+    "Temperatura": 23.50,
+    "Humedad": 96,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:15.917",
+    "Temperatura": 21.00,
+    "Humedad": 97,
+    "Viento": 2.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:06.877",
+    "Temperatura": 21.00,
+    "Humedad": 97,
+    "Viento": 2.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:05.723",
+    "Temperatura": 21.50,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:17.907",
+    "Temperatura": 21.50,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:51.783",
+    "Temperatura": 21.50,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:31.367",
+    "Temperatura": 21.70,
+    "Humedad": 96,
+    "Viento": 5.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:54.237",
+    "Temperatura": 21.70,
+    "Humedad": 96,
+    "Viento": 5.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:26.823",
+    "Temperatura": 23.50,
+    "Humedad": 94,
+    "Viento": 3.20,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:17.303",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 3.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:50.847",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 3.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.26",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 3.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:16.157",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:07.113",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:06.057",
+    "Temperatura": 20.00,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:18.18",
+    "Temperatura": 20.00,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:52.097",
+    "Temperatura": 20.00,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:32.34",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:54.547",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:27.103",
+    "Temperatura": 27.80,
+    "Humedad": 74,
+    "Viento": 9.40,
+    "Presion": 1013.20
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:17.593",
+    "Temperatura": 21.30,
+    "Humedad": 85,
+    "Viento": 5.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:51.163",
+    "Temperatura": 21.30,
+    "Humedad": 85,
+    "Viento": 5.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.623",
+    "Temperatura": 26.80,
+    "Humedad": 76,
+    "Viento": 11.20,
+    "Presion": 1014.20
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:16.407",
+    "Temperatura": 20.50,
+    "Humedad": 94,
+    "Viento": 6.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:07.353",
+    "Temperatura": 20.50,
+    "Humedad": 94,
+    "Viento": 6.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:06.823",
+    "Temperatura": 20.40,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:18.45",
+    "Temperatura": 20.40,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:52.387",
+    "Temperatura": 20.40,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:32.623",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:54.83",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:27.397",
+    "Temperatura": 21.90,
+    "Humedad": 91,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:17.957",
+    "Temperatura": 21.70,
+    "Humedad": 92,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:51.453",
+    "Temperatura": 21.70,
+    "Humedad": 92,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.93",
+    "Temperatura": 21.70,
+    "Humedad": 92,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:20.55",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:11.477",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:16.71",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:23.35",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:57.48",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:37.883",
+    "Temperatura": 26.90,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:01.783",
+    "Temperatura": 26.90,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:32.517",
+    "Temperatura": 19.40,
+    "Humedad": 92,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:23.18",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:56.61",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:39.23",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:16.663",
+    "Temperatura": 21.40,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:07.587",
+    "Temperatura": 21.40,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:07.157",
+    "Temperatura": 22.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:18.737",
+    "Temperatura": 22.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:52.747",
+    "Temperatura": 22.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:32.927",
+    "Temperatura": 22.30,
+    "Humedad": 92,
+    "Viento": 5.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:55.14",
+    "Temperatura": 22.30,
+    "Humedad": 92,
+    "Viento": 5.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:27.677",
+    "Temperatura": 23.10,
+    "Humedad": 94,
+    "Viento": 5.00,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:18.26",
+    "Temperatura": 22.70,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:51.757",
+    "Temperatura": 22.70,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.253",
+    "Temperatura": 22.70,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:16.903",
+    "Temperatura": 23.80,
+    "Humedad": 94,
+    "Viento": 4.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:07.817",
+    "Temperatura": 23.80,
+    "Humedad": 94,
+    "Viento": 4.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:07.507",
+    "Temperatura": 23.10,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:19.03",
+    "Temperatura": 23.10,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:53.03",
+    "Temperatura": 23.10,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:33.217",
+    "Temperatura": 23.10,
+    "Humedad": 96,
+    "Viento": 4.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:55.447",
+    "Temperatura": 23.10,
+    "Humedad": 96,
+    "Viento": 4.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:27.957",
+    "Temperatura": 25.10,
+    "Humedad": 89,
+    "Viento": 6.10,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:18.587",
+    "Temperatura": 24.20,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:52.087",
+    "Temperatura": 24.20,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.563",
+    "Temperatura": 24.60,
+    "Humedad": 92,
+    "Viento": 5.00,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:17.153",
+    "Temperatura": 29.00,
+    "Humedad": 84,
+    "Viento": 14.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:08.05",
+    "Temperatura": 29.00,
+    "Humedad": 84,
+    "Viento": 14.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:07.947",
+    "Temperatura": 29.00,
+    "Humedad": 79,
+    "Viento": 29.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:19.31",
+    "Temperatura": 29.00,
+    "Humedad": 79,
+    "Viento": 29.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:53.31",
+    "Temperatura": 29.00,
+    "Humedad": 79,
+    "Viento": 29.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:33.493",
+    "Temperatura": 29.00,
+    "Humedad": 79,
+    "Viento": 33.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:56.44",
+    "Temperatura": 29.00,
+    "Humedad": 79,
+    "Viento": 33.50,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:28.47",
+    "Temperatura": 28.30,
+    "Humedad": 78,
+    "Viento": 35.60,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:18.897",
+    "Temperatura": 27.90,
+    "Humedad": 82,
+    "Viento": 34.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:52.403",
+    "Temperatura": 27.90,
+    "Humedad": 82,
+    "Viento": 34.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.93",
+    "Temperatura": 27.90,
+    "Humedad": 82,
+    "Viento": 34.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:17.39",
+    "Temperatura": 20.10,
+    "Humedad": 95,
+    "Viento": 2.90,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:08.357",
+    "Temperatura": 20.10,
+    "Humedad": 95,
+    "Viento": 2.90,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:08.297",
+    "Temperatura": 20.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:19.673",
+    "Temperatura": 20.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:53.603",
+    "Temperatura": 20.20,
+    "Humedad": 96,
+    "Viento": 4.30,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:33.777",
+    "Temperatura": 20.20,
+    "Humedad": 92,
+    "Viento": 6.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:57.007",
+    "Temperatura": 20.20,
+    "Humedad": 92,
+    "Viento": 6.50,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:28.75",
+    "Temperatura": 21.90,
+    "Humedad": 87,
+    "Viento": 4.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:19.2",
+    "Temperatura": 21.20,
+    "Humedad": 87,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:52.687",
+    "Temperatura": 21.20,
+    "Humedad": 87,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.23",
+    "Temperatura": 20.90,
+    "Humedad": 91,
+    "Viento": 5.40,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:17.627",
+    "Temperatura": 21.20,
+    "Humedad": 87,
+    "Viento": 7.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:08.597",
+    "Temperatura": 21.20,
+    "Humedad": 87,
+    "Viento": 7.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:08.633",
+    "Temperatura": 21.00,
+    "Humedad": 86,
+    "Viento": 8.60,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:19.943",
+    "Temperatura": 21.00,
+    "Humedad": 86,
+    "Viento": 8.60,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:53.89",
+    "Temperatura": 21.00,
+    "Humedad": 86,
+    "Viento": 8.60,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:34.367",
+    "Temperatura": 21.20,
+    "Humedad": 82,
+    "Viento": 10.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:57.507",
+    "Temperatura": 21.20,
+    "Humedad": 82,
+    "Viento": 10.80,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:29.043",
+    "Temperatura": 23.90,
+    "Humedad": 71,
+    "Viento": 15.80,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:19.523",
+    "Temperatura": 23.20,
+    "Humedad": 73,
+    "Viento": 14.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:52.983",
+    "Temperatura": 23.20,
+    "Humedad": 73,
+    "Viento": 14.80,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.543",
+    "Temperatura": 22.60,
+    "Humedad": 80,
+    "Viento": 15.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:17.86",
+    "Temperatura": 11.40,
+    "Humedad": 88,
+    "Viento": 9.40,
+    "Presion": 1021.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:08.827",
+    "Temperatura": 11.40,
+    "Humedad": 88,
+    "Viento": 9.40,
+    "Presion": 1021.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:08.987",
+    "Temperatura": 12.10,
+    "Humedad": 88,
+    "Viento": 9.00,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:20.22",
+    "Temperatura": 12.10,
+    "Humedad": 88,
+    "Viento": 9.00,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:54.257",
+    "Temperatura": 12.10,
+    "Humedad": 88,
+    "Viento": 9.00,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:34.647",
+    "Temperatura": 11.10,
+    "Humedad": 85,
+    "Viento": 11.20,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:58",
+    "Temperatura": 11.10,
+    "Humedad": 85,
+    "Viento": 11.20,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:29.343",
+    "Temperatura": 12.90,
+    "Humedad": 93,
+    "Viento": 8.30,
+    "Presion": 1018.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:19.807",
+    "Temperatura": 12.70,
+    "Humedad": 93,
+    "Viento": 9.00,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:53.3",
+    "Temperatura": 12.70,
+    "Humedad": 93,
+    "Viento": 9.00,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.843",
+    "Temperatura": 12.70,
+    "Humedad": 93,
+    "Viento": 9.00,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:18.097",
+    "Temperatura": 28.00,
+    "Humedad": 77,
+    "Viento": 15.10,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:09.06",
+    "Temperatura": 28.00,
+    "Humedad": 77,
+    "Viento": 15.10,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:09.307",
+    "Temperatura": 27.80,
+    "Humedad": 81,
+    "Viento": 25.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:20.497",
+    "Temperatura": 27.80,
+    "Humedad": 81,
+    "Viento": 25.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:54.6",
+    "Temperatura": 27.80,
+    "Humedad": 81,
+    "Viento": 25.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:34.917",
+    "Temperatura": 27.80,
+    "Humedad": 78,
+    "Viento": 29.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:58.943",
+    "Temperatura": 27.80,
+    "Humedad": 78,
+    "Viento": 29.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:29.627",
+    "Temperatura": 27.80,
+    "Humedad": 82,
+    "Viento": 38.20,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:20.103",
+    "Temperatura": 27.70,
+    "Humedad": 83,
+    "Viento": 35.30,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:53.593",
+    "Temperatura": 27.70,
+    "Humedad": 83,
+    "Viento": 35.30,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.14",
+    "Temperatura": 27.70,
+    "Humedad": 83,
+    "Viento": 35.30,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:18.343",
+    "Temperatura": 23.10,
+    "Humedad": 95,
+    "Viento": 6.50,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:09.3",
+    "Temperatura": 23.10,
+    "Humedad": 95,
+    "Viento": 6.50,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:10.537",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:20.783",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:54.897",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 6.50,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:35.203",
+    "Temperatura": 23.00,
+    "Humedad": 96,
+    "Viento": 7.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:59.23",
+    "Temperatura": 23.00,
+    "Humedad": 96,
+    "Viento": 7.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:29.907",
+    "Temperatura": 25.00,
+    "Humedad": 82,
+    "Viento": 9.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:20.423",
+    "Temperatura": 24.10,
+    "Humedad": 86,
+    "Viento": 9.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:53.883",
+    "Temperatura": 24.10,
+    "Humedad": 86,
+    "Viento": 9.70,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.433",
+    "Temperatura": 24.10,
+    "Humedad": 86,
+    "Viento": 9.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:18.58",
+    "Temperatura": 28.00,
+    "Humedad": 84,
+    "Viento": 18.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:09.533",
+    "Temperatura": 28.00,
+    "Humedad": 84,
+    "Viento": 18.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:10.957",
+    "Temperatura": 27.80,
+    "Humedad": 84,
+    "Viento": 20.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:21.057",
+    "Temperatura": 27.80,
+    "Humedad": 84,
+    "Viento": 20.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:55.253",
+    "Temperatura": 27.80,
+    "Humedad": 84,
+    "Viento": 20.90,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:35.49",
+    "Temperatura": 27.50,
+    "Humedad": 85,
+    "Viento": 22.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:59.537",
+    "Temperatura": 27.50,
+    "Humedad": 85,
+    "Viento": 22.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:30.18",
+    "Temperatura": 27.80,
+    "Humedad": 84,
+    "Viento": 25.60,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:20.747",
+    "Temperatura": 27.70,
+    "Humedad": 85,
+    "Viento": 25.60,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:54.177",
+    "Temperatura": 27.70,
+    "Humedad": 85,
+    "Viento": 25.60,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.713",
+    "Temperatura": 27.70,
+    "Humedad": 85,
+    "Viento": 25.60,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:18.877",
+    "Temperatura": 22.40,
+    "Humedad": 96,
+    "Viento": 2.90,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:09.777",
+    "Temperatura": 22.40,
+    "Humedad": 96,
+    "Viento": 2.90,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:11.29",
+    "Temperatura": 22.60,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:21.34",
+    "Temperatura": 22.60,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:55.54",
+    "Temperatura": 22.60,
+    "Humedad": 97,
+    "Viento": 4.00,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:35.777",
+    "Temperatura": 23.00,
+    "Humedad": 96,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:34:59.82",
+    "Temperatura": 23.00,
+    "Humedad": 96,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:30.457",
+    "Temperatura": 24.40,
+    "Humedad": 94,
+    "Viento": 3.60,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:21.053",
+    "Temperatura": 24.00,
+    "Humedad": 94,
+    "Viento": 1.80,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:54.493",
+    "Temperatura": 24.00,
+    "Humedad": 94,
+    "Viento": 1.80,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.207",
+    "Temperatura": 23.80,
+    "Humedad": 95,
+    "Viento": 1.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:19.107",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:10.003",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:11.613",
+    "Temperatura": 18.90,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:21.693",
+    "Temperatura": 18.90,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:55.82",
+    "Temperatura": 18.90,
+    "Humedad": 97,
+    "Viento": 2.90,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:36.12",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:00.107",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:30.74",
+    "Temperatura": 19.80,
+    "Humedad": 95,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:21.357",
+    "Temperatura": 19.40,
+    "Humedad": 96,
+    "Viento": 4.00,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:54.78",
+    "Temperatura": 19.40,
+    "Humedad": 96,
+    "Viento": 4.00,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.507",
+    "Temperatura": 19.40,
+    "Humedad": 96,
+    "Viento": 4.00,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:19.337",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:10.237",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:13.12",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:21.967",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:56.1",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:36.41",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:00.38",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:31.003",
+    "Temperatura": 19.40,
+    "Humedad": 92,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:21.657",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:55.07",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.797",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:19.567",
+    "Temperatura": 14.50,
+    "Humedad": 95,
+    "Viento": 3.20,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:10.487",
+    "Temperatura": 14.50,
+    "Humedad": 95,
+    "Viento": 3.20,
+    "Presion": 1020.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:13.477",
+    "Temperatura": 14.70,
+    "Humedad": 97,
+    "Viento": 1.80,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:22.233",
+    "Temperatura": 14.70,
+    "Humedad": 97,
+    "Viento": 1.80,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:56.373",
+    "Temperatura": 14.70,
+    "Humedad": 97,
+    "Viento": 1.80,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:36.697",
+    "Temperatura": 14.30,
+    "Humedad": 97,
+    "Viento": 2.20,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:00.657",
+    "Temperatura": 14.30,
+    "Humedad": 97,
+    "Viento": 2.20,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:31.283",
+    "Temperatura": 15.50,
+    "Humedad": 98,
+    "Viento": 3.20,
+    "Presion": 1017.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:21.953",
+    "Temperatura": 15.30,
+    "Humedad": 97,
+    "Viento": 3.20,
+    "Presion": 1018.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:55.357",
+    "Temperatura": 15.30,
+    "Humedad": 97,
+    "Viento": 3.20,
+    "Presion": 1018.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.08",
+    "Temperatura": 15.30,
+    "Humedad": 97,
+    "Viento": 3.20,
+    "Presion": 1018.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:19.81",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:10.747",
+    "Temperatura": 26.00,
+    "Humedad": 89,
+    "Viento": 7.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:13.813",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:22.513",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:56.647",
+    "Temperatura": 18.80,
+    "Humedad": 95,
+    "Viento": 8.60,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:37.057",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:00.947",
+    "Temperatura": 27.00,
+    "Humedad": 89,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:31.623",
+    "Temperatura": 19.40,
+    "Humedad": 92,
+    "Viento": 5.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:22.277",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:55.66",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.367",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:20.063",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 7.90,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:10.977",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 7.90,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:15.977",
+    "Temperatura": 20.80,
+    "Humedad": 96,
+    "Viento": 6.10,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:22.79",
+    "Temperatura": 20.80,
+    "Humedad": 96,
+    "Viento": 6.10,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:56.927",
+    "Temperatura": 20.80,
+    "Humedad": 96,
+    "Viento": 6.10,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:37.33",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:01.223",
+    "Temperatura": 20.90,
+    "Humedad": 93,
+    "Viento": 4.00,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:31.89",
+    "Temperatura": 21.50,
+    "Humedad": 98,
+    "Viento": 4.70,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:22.57",
+    "Temperatura": 21.30,
+    "Humedad": 98,
+    "Viento": 3.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:55.963",
+    "Temperatura": 21.30,
+    "Humedad": 98,
+    "Viento": 3.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.663",
+    "Temperatura": 21.30,
+    "Humedad": 98,
+    "Viento": 3.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:12:20.3",
+    "Temperatura": 30.10,
+    "Humedad": 70,
+    "Viento": 23.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-19T09:21:11.227",
+    "Temperatura": 30.10,
+    "Humedad": 70,
+    "Viento": 23.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T14:27:16.333",
+    "Temperatura": 30.30,
+    "Humedad": 66,
+    "Viento": 11.50,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T21:50:23.077",
+    "Temperatura": 30.30,
+    "Humedad": 66,
+    "Viento": 11.50,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-20T22:05:57.203",
+    "Temperatura": 30.30,
+    "Humedad": 66,
+    "Viento": 11.50,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:10:37.607",
+    "Temperatura": 30.70,
+    "Humedad": 65,
+    "Viento": 16.90,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:35:01.503",
+    "Temperatura": 30.70,
+    "Humedad": 65,
+    "Viento": 16.90,
+    "Presion": 1011.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T20:47:32.17",
+    "Temperatura": 31.60,
+    "Humedad": 65,
+    "Viento": 19.80,
+    "Presion": 1008.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:12:22.88",
+    "Temperatura": 31.70,
+    "Humedad": 66,
+    "Viento": 21.60,
+    "Presion": 1009.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:18:56.253",
+    "Temperatura": 31.70,
+    "Humedad": 66,
+    "Viento": 21.60,
+    "Presion": 1009.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.95",
+    "Temperatura": 31.70,
+    "Humedad": 66,
+    "Viento": 21.60,
+    "Presion": 1009.00
+  }
+]

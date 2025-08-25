@@ -4,6 +4,7 @@ using System.Net.Http;
 using System.Text.RegularExpressions;
 using System.Threading.Tasks;
 using Newtonsoft.Json.Linq; // Instalar con: dotnet add package Newtonsoft.Json
+using System.Text.Json;
 
 class Program
 {
@@ -15,24 +16,24 @@ class Program
         List<string> ciudades = new List<string>()
         {
             "Amazonas, VE",
-            "Anzoátegui, VE",
+            "Anzoategui, VE",
             "Apure, VE",
             "Aragua, VE",
             "Barinas, VE",
-            "Bolívar, VE",
+            "Bolivar, VE",
             "Carabobo, VE",
             "Cojedes, VE",
             "Delta Amacuro, VE",
-            "Falcón, VE",
-            "Guárico, VE",
+            "Falcon, VE",
+            "Guarico, VE",
             "Lara, VE",
-            "Mérida, VE",
+            "Merida, VE",
             "Miranda, VE",
             "Monagas, VE",
             "Nueva Esparta, VE",
             "Portuguesa, VE",
             "Sucre, VE",
-            "Táchira, VE",
+            "Tachira, VE",
             "Trujillo, VE",
             "Vargas, VE",
             "Yaracuy, VE",
@@ -57,9 +58,10 @@ class Program
                 // Tomamos la hora actual y consultamos los datos
                 // hora actual
                 int horaActual = DateTime.Now.Hour;
-
                 var horasDelDia = data["days"][0]["hours"];
                 var hora = horasDelDia[horaActual];
+
+                // guardamos los datos 
                 decimal temp = (decimal)hora["temp"];
                 int humedad = (int)hora["humidity"];
                 string desc = (string)hora["conditions"];
@@ -110,6 +112,97 @@ class Program
                     cmdInsert.Parameters.AddWithValue("@visibilidad", visibilidad);
 
                     cmdInsert.ExecuteNonQuery();
+                }
+
+                // generar un .json con los datos actuales  
+                string dataDir = @"C:\Users\Jeisi Rosales\Desktop\Proyecto-de-Clima-con-API\docs\data";
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    conn.Open();
+
+                    string queryActual = @"
+                        SELECT 
+                            l.nombreCiudad,
+                            l.pais,
+                            c.fechaHoraConsulta,
+                            c.temperatura,
+                            c.humedad,
+                            c.velocidadViento,
+                            c.presion
+                        FROM DatosClima c
+                        JOIN Localizaciones l ON c.idLocalizacion = l.idLocalizacion
+                        WHERE c.fechaHoraConsulta IN (
+                            SELECT MAX(fechaHoraConsulta)
+                            FROM DatosClima
+                            GROUP BY idLocalizacion
+                        )
+                        ORDER BY l.nombreCiudad;
+                    ";
+
+                    SqlCommand cmd = new SqlCommand(queryActual, conn);
+                    SqlDataReader reader = cmd.ExecuteReader();
+
+                    var listaActual = new List<object>();
+                    while (reader.Read())
+                    {
+                        listaActual.Add(new
+                        {
+                            Ciudad = reader["nombreCiudad"].ToString(),
+                            Pais = reader["pais"].ToString(),
+                            FechaHora = Convert.ToDateTime(reader["fechaHoraConsulta"]),
+                            Temperatura = Convert.ToDecimal(reader["temperatura"]),
+                            Humedad = Convert.ToInt32(reader["humedad"]),
+                            Viento = Convert.ToDecimal(reader["velocidadViento"]),
+                            Presion = Convert.ToDecimal(reader["presion"])
+                        });
+                    }
+                    reader.Close();
+
+                    string jsonActual = JsonSerializer.Serialize(listaActual, new JsonSerializerOptions { WriteIndented = true });
+                    File.WriteAllText(Path.Combine(dataDir, "clima_actual.json"), jsonActual);
+                }
+
+                // genera un .json con un historico de datos de 7 dias
+                using (SqlConnection conn = new SqlConnection(connectionString))
+                {
+                    conn.Open();
+
+                    string queryHistorico = @"
+                        SELECT 
+                            l.nombreCiudad,
+                            l.pais,
+                            c.fechaHoraConsulta,
+                            c.temperatura,
+                            c.humedad,
+                            c.velocidadViento,
+                            c.presion
+                        FROM DatosClima c
+                        JOIN Localizaciones l ON c.idLocalizacion = l.idLocalizacion
+                        WHERE c.fechaHoraConsulta >= DATEADD(DAY, -7, GETDATE())
+                        ORDER BY l.nombreCiudad, c.fechaHoraConsulta;
+                    ";
+
+                    SqlCommand cmdHist = new SqlCommand(queryHistorico, conn);
+                    SqlDataReader readerHist = cmdHist.ExecuteReader();
+
+                    var listaHist = new List<object>();
+                    while (readerHist.Read())
+                    {
+                        listaHist.Add(new
+                        {
+                            Ciudad = readerHist["nombreCiudad"].ToString(),
+                            Pais = readerHist["pais"].ToString(),
+                            FechaHora = Convert.ToDateTime(readerHist["fechaHoraConsulta"]),
+                            Temperatura = Convert.ToDecimal(readerHist["temperatura"]),
+                            Humedad = Convert.ToInt32(readerHist["humedad"]),
+                            Viento = Convert.ToDecimal(readerHist["velocidadViento"]),
+                            Presion = Convert.ToDecimal(readerHist["presion"])
+                        });
+                    }
+                    readerHist.Close();
+
+                    string jsonHistorico = JsonSerializer.Serialize(listaHist, new JsonSerializerOptions { WriteIndented = true });
+                    File.WriteAllText(Path.Combine(dataDir, "clima_historico.json"), jsonHistorico);
                 }
             }
         }

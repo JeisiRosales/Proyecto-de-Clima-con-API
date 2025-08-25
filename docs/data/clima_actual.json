@@ -1,0 +1,218 @@
+[
+  {
+    "Ciudad": "Amazonas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:31.65",
+    "Temperatura": 23.80,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Anzo\u00E1tegui",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.34",
+    "Temperatura": 23.90,
+    "Humedad": 94,
+    "Viento": 2.20,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Apure",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.653",
+    "Temperatura": 24.50,
+    "Humedad": 93,
+    "Viento": 5.40,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Aragua",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:32.957",
+    "Temperatura": 23.50,
+    "Humedad": 96,
+    "Viento": 5.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Barinas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.26",
+    "Temperatura": 22.90,
+    "Humedad": 96,
+    "Viento": 3.20,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Bol\u00EDvar",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.623",
+    "Temperatura": 26.80,
+    "Humedad": 76,
+    "Viento": 11.20,
+    "Presion": 1014.20
+  },
+  {
+    "Ciudad": "Carabobo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:33.93",
+    "Temperatura": 21.70,
+    "Humedad": 92,
+    "Viento": 6.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Caracas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:39.23",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Cojedes",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.253",
+    "Temperatura": 22.70,
+    "Humedad": 95,
+    "Viento": 5.40,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Delta Amacuro",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.563",
+    "Temperatura": 24.60,
+    "Humedad": 92,
+    "Viento": 5.00,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Falc\u00F3n",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:34.93",
+    "Temperatura": 27.90,
+    "Humedad": 82,
+    "Viento": 34.90,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Gu\u00E1rico",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.23",
+    "Temperatura": 20.90,
+    "Humedad": 91,
+    "Viento": 5.40,
+    "Presion": 1015.00
+  },
+  {
+    "Ciudad": "Lara",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.543",
+    "Temperatura": 22.60,
+    "Humedad": 80,
+    "Viento": 15.10,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "M\u00E9rida",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:35.843",
+    "Temperatura": 12.70,
+    "Humedad": 93,
+    "Viento": 9.00,
+    "Presion": 1019.00
+  },
+  {
+    "Ciudad": "Miranda",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.14",
+    "Temperatura": 27.70,
+    "Humedad": 83,
+    "Viento": 35.30,
+    "Presion": 1012.00
+  },
+  {
+    "Ciudad": "Monagas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.433",
+    "Temperatura": 24.10,
+    "Humedad": 86,
+    "Viento": 9.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Nueva Esparta",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:36.713",
+    "Temperatura": 27.70,
+    "Humedad": 85,
+    "Viento": 25.60,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Portuguesa",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.207",
+    "Temperatura": 23.80,
+    "Humedad": 95,
+    "Viento": 1.40,
+    "Presion": 1013.00
+  },
+  {
+    "Ciudad": "Sucre",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.507",
+    "Temperatura": 19.40,
+    "Humedad": 96,
+    "Viento": 4.00,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "T\u00E1chira",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:37.797",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Trujillo",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.08",
+    "Temperatura": 15.30,
+    "Humedad": 97,
+    "Viento": 3.20,
+    "Presion": 1018.00
+  },
+  {
+    "Ciudad": "Vargas",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.367",
+    "Temperatura": 19.10,
+    "Humedad": 93,
+    "Viento": 6.10,
+    "Presion": 1016.00
+  },
+  {
+    "Ciudad": "Yaracuy",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.663",
+    "Temperatura": 21.30,
+    "Humedad": 98,
+    "Viento": 3.60,
+    "Presion": 1014.00
+  },
+  {
+    "Ciudad": "Zulia",
+    "Pais": " VE",
+    "FechaHora": "2025-08-24T21:19:38.95",
+    "Temperatura": 31.70,
+    "Humedad": 66,
+    "Viento": 21.60,
+    "Presion": 1009.00
+  }
+]
