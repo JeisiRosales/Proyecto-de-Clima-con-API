@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InsertarClima")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+f45a00c09c24c17b76f1705ad6ecdeb7bfa81827")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5db42257710b2f2b5f5a81e51adfd9c22e332e93")]
 [assembly: System.Reflection.AssemblyProductAttribute("InsertarClima")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InsertarClima")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
