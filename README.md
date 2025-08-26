@@ -89,7 +89,7 @@ El repositorio está organizado de la siguiente manera:
    - Esto consumirá la API, cargará los datos en ClimaDB y generará los archivos JSON en /docs/data.
 5. **Accede a la aplicación web**
    - La aplicación está publicada directamente en **GitHub Pages** y puede verse en el siguiente enlace:  
-     👉 [Demo en vivo](https://JeisiRosales.github.io/proyecto-clima/)  
+     👉 [Demo en vivo](https://JeisiRosales.github.io/Proyecto-de-Clima-con-API/)  
 
    *(Opcional para desarrolladores)*  
    Si deseas probar la web localmente, abre `/docs/index.html` en tu navegador o usa un servidor local
