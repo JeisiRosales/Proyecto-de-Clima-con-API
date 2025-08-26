@@ -11,8 +11,10 @@ class Program
     static async Task Main(string[] args)
     {
         //Valores de coexion
-        string connectionString = "Server=JEISI;Database=ClimaDB;Trusted_Connection=True;";
-        string apiKey = "CCS6THRQ44UK724JLCDG29YZ8";
+        // ⚠️ Configura estos valores
+        string apiKey = "API_KEY_AQUI";
+        string connectionString = "Server=SERVER_AQUI;Database=ClimaDB;User Id=USER;Password=PASSWORD;";
+
         List<string> ciudades = new List<string>()
         {
             "Amazonas, VE",
